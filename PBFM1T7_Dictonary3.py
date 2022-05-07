@@ -1,0 +1,1 @@
+#Write a Python program to convert given a dictionary to a list of tuples.
